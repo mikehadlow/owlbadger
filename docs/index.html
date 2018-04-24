@@ -21,6 +21,7 @@ tagline: A blog about music
               <a href="#">{{ post.author }}</a>
               {{ post.date | date: "%-d %B %Y" }}</p>
             <P>{{ post.excerpt }}</P>
+            <p><a href="{{ post.url }}">Read more ...</a></p>
           </div>
           <hr>
           {% endfor %}
