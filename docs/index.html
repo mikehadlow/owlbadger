@@ -10,16 +10,16 @@ tagline: A blog about music
           {% for post in site.posts %}
           <div class="post-preview">
             <a href="{{ post.url }}">
-              <h2 class="{{ post.title }}">
-                Man must explore, and this is exploration at its greatest
+              <h2 class="post-title">
+                {{ post.title }}
               </h2>
-              <h3 class="{{ post.tagline }}">
-                Problems look mighty small from 150 miles up
+              <h3 class="post-subtitle">
+                {{ post.tagline }}
               </h3>
             </a>
             <p class="post-meta">Posted by
               <a href="#">{{ post.author }}</a>
-              {{ post.date }}</p>
+              {{ post.date | date: "%-d %B %Y" }}</p>
             <P>{{ post.excerpt }}</P>
           </div>
           <hr>
