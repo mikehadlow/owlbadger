@@ -21,8 +21,8 @@ tagline: A blog about music
               <a href="#">{{ post.author }}</a>
               {{ post.date | date: "%-d %B %Y" }}</p>
               
-              {% if page.image %}
-                <img src="{{ page.image | absolute_url }}" />
+              {% if post.image %}
+                <img src="{{ post.image | absolute_url }}" />
               {% endif %}
               
             <P>{{ post.excerpt }}</P>
