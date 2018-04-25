@@ -6,7 +6,9 @@ layout: default
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
+              {% if page.author %}
               <p class="post-meta">{{ page.author }}, {{ page.date | date: "%-d %B %Y" }}</p>
+              {% endif %}
 {{ content }}
           </div>
         </div>
