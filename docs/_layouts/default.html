@@ -47,7 +47,11 @@
     </nav>
 
     <!-- Page Header -->
+    {% if page.image %}
+    <header class="masthead" style="background-image: url('{{ page.image | absolute_url }}')">
+    {% else %}
     <header class="masthead" style="background-image: url('{{ "img/fx-pedals.jpg" | absolute_url }}')">
+    {% endif %}
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
