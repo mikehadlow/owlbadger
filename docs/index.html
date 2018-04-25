@@ -22,7 +22,7 @@ tagline: A blog about music
               {{ post.date | date: "%-d %B %Y" }}</p>
               
               {% if post.image %}
-                <img src="{{ post.image | absolute_url }}" />
+                <img src="{{ post.image | absolute_url }}" height=300 />
               {% endif %}
               
             <P>{{ post.excerpt }}</P>
