@@ -32,3 +32,6 @@ timezone: Europe/London
 exclude: [
  "*.ps1","Gemfile", "Gemfile.lock", "*.sln"
 ]
+
+plugins:
+  - jekyll-feed
