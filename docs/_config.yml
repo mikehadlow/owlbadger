@@ -21,7 +21,7 @@ title: Owlbadger
 #email: mikehadlow@yahoo.com
 description: A blog about music.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: http://owlbadger.com # the base hostname & protocol for your site
+url: https://owlbadger.com # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
