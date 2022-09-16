@@ -5,6 +5,7 @@ tagline: The year I spent as a full time wanna be rock star.
 date: 2022-09-16
 author: Mike Hadlow
 image: img/decadent_herbs.png
+excerpt_separator: <!--more-->
 ---
 It was 1985, I was twenty years old and just back from nine months volunteering in India. I'd decided not to go to university, but instead to try my luck as a rock star, all I needed was a band.
 <!--more-->
