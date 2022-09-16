@@ -4,7 +4,7 @@ title: Seal St. Lawrence
 tagline: My primary school years.
 date: 2012-01-06
 author: Mike Hadlow
-image: img/decadent_herbs.png
+image: img/st-lawrence.jpg
 excerpt_separator: <!--more-->
 ---
 Seal St. Lawrence was my primary school, a tiny church of England school attached to the parish church.
