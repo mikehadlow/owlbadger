@@ -6,7 +6,9 @@ date: 2022-09-16
 author: Mike Hadlow
 image: img/decadent_herbs.png
 ---
-It was 1985, I was twenty years old and just back from nine months volunteering in India. I'd decided not to go to university, but instead to try my luck as a rock star, all I needed was a band. At first I tried answering adds in the musicians wanted section of Melody Maker, I must have sent off several applications, but only got one audition with a very odd band from South London with a female vocalist who screamed over a monotonous bass and drums. They wanted a flamenco guitar to go with it, and I was plainly not suitable. So that summer I sat around at St. Julians getting a little bored and not really knowing what to do with myself.
+It was 1985, I was twenty years old and just back from nine months volunteering in India. I'd decided not to go to university, but instead to try my luck as a rock star, all I needed was a band.
+
+At first I tried answering adds in the musicians wanted section of Melody Maker, I must have sent off several applications, but only got one audition with a very odd band from South London with a female vocalist who screamed over a monotonous bass and drums. They wanted a flamenco guitar to go with it, and I was plainly not suitable. So that summer I sat around at St. Julians getting a little bored and not really knowing what to do with myself.
 
 My friend, Jim Green, was at the University of East Anglia in Norwich. He was living in a council house in Beaching Road with a pig sign on the front bay above the window, rented by Mel, a single parent he knew. She seemed to have a pretty much open-house policy, and there were a number of people living there on and off. I visited Jim a few times and eventually decided not to go home. Nobody seemed to mind that I'd just started sleeping on a spare mattress in one of the bedrooms. I was probably tolerated because it was the summer holidays and one or two of the student residents were away. The place had a very 80's hippie vibe with everyone wearing baggy multi-coloured knitwear and sporting mullet hairstyles.
 
