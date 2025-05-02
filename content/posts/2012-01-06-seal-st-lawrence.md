@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seal St. Lawrence
-tagline: My primary school years.
+description: My primary school years.
 date: 2012-01-06
 author: Mike Hadlow
 image: img/st-lawrence.jpg

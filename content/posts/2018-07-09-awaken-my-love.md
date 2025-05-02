@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Awaken My Love!
-tagline: Wonderful 2016 funk experiment by Childish Gambino
+description: Wonderful 2016 funk experiment by Childish Gambino
 date: 2018-07-09
 author: Mike Hadlow
 image: img/awaken-my-love.jpg
@@ -17,6 +17,3 @@ Donald Glover wrote, played and produced AWL in collaboration with his long-time
 The stand out track is of course Redbone, based around a series of super catchy hooks over a slow funk groove. My other favourites are Zombies, a decidedly silly mock-horror soundtrack that’s the perfect vehicle for Göransson’s instrumental hooks and Glover’s lazy drum groove; and Boogieman which is driven by an excellent guitar riff and the most complex rhythms on the album.
 
 With expectations around Glover now sky high, it must be quite unlikely that he’ll have the critical space to make another album as risky and left-field as this, which is a shame. Still it stands as an artifact of one of the great creative figures of our time.
-
-Here's the excellent video I mentioned above where Ludwig Göransson walks through the making of Rebone:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lGKlIJsz7bM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

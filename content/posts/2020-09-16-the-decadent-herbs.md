@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Decadent Herbs
-tagline: The year I spent as a full time wanna be rock star.
+description: The year I spent as a full time wanna be rock star.
 date: 2022-09-16
 author: Mike Hadlow
 image: img/decadent_herbs.png

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Aristocrats
-tagline: Debut album by supergroup session players
+description: Debut album by supergroup session players
 date: 2018-05-23
 author: Mike Hadlow
 image: img/the-aristocrats.png

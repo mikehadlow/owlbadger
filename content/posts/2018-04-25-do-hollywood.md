@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do Hollywood
-tagline: The Lemon Twigs debut album
+description: The Lemon Twigs debut album
 date: 2018-04-25
 author: Mike Hadlow
 image: img/do-hollywood.jpg
@@ -19,7 +19,3 @@ There’s no filler on Do Hollywood, but there’s definitely a high point from 
 As I said before, there’s no filler on this record and it rewards an end-to-end listen. The last three tracks especially are a great musical rollercoaster. At times it seems that they’ve just glued together some rather disparate musical ideas but it still works. You certainly don’t get bored.
 
 The future looks bright for the Lemon Twigs. There’s a further EP, Brother’s of Destruction, of ‘outtakes’ from Do Hollywood. It’s still a great listen, especially Night Song, which is one of my favorite songs of theirs. They also just released an excellent double-A single, Foolin’ Around / Tailor Made, that has a different early Stones/Faces vibe. I’m now waiting with much anticipation for their next album, apparently a musical about high school. Fitting considering their age.
-
-By the way, they're a great live band too. Check out this KEXP set:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5lGGGTy7a6g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

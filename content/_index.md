@@ -1,3 +1,3 @@
 ---
-title: Owl Badger
+title: Owlbadger
 ---
