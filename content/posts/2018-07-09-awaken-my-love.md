@@ -1,11 +1,12 @@
----
-layout: post
-title: Awaken My Love!
-description: Wonderful 2016 funk experiment by Childish Gambino
-date: 2018-07-09
-author: Mike Hadlow
-image: img/awaken-my-love.jpg
----
++++
+layout = "post"
+title = "Awaken My Love!"
+description = "Wonderful 2016 funk experiment by Childish Gambino"
+date = 2018-07-09
+author = "Mike Hadlow"
+[params]
+    image = "img/awaken-my-love.jpg"
++++
 "Awaken, My Love!" is the 2016 studio album by Donald Glover, under his stage name Childish Gambino. A modern take on 70’s psychedelic funk and somewhat of a Prince tribute, it manages to combine crowd pleasing melodies with some quite messy left-field experimentation making it one of the more interesting records of the last few years.
 
 I was introduced to AWL by my 15 year old son. I’m almost completely unaware of modern rap and R&B music, which I mostly find very hard to connect with. I’m sure there’s some excellent stuff out there, but mostly it’s not really my thing. I doubt that I would have stumbled across AWL if left to my own devices, so thanks Leo! It just helps to reinforce my belief that there’s probably huge amounts of great music out there that I’d really love if only I knew where to find it, and that the main challenge for the music industry in the 2010’s is discovery. In an ideal world there would be someone on the internet with musical taste identical to my own, but who spends 12 hours a day listening to music and discovering all the wonderful things I might like. Alas I’ve yet to find them - another discovery problem.

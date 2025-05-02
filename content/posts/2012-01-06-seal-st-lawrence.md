@@ -1,14 +1,13 @@
----
-layout: post
-title: Seal St. Lawrence
-description: My primary school years.
-date: 2012-01-06
-author: Mike Hadlow
-image: img/st-lawrence.jpg
-excerpt_separator: <!--more-->
----
++++
+title = 'Seal St. Lawrence'
+description = 'My primary school years.'
+date = 2012-01-06
+author = 'Mike Hadlow'
+[params]
+  image = 'img/st-lawrence.jpg'
++++
 Seal St. Lawrence was my primary school, a tiny church of England school attached to the parish church.
-<!--more-->
+
 Both were built in 1865 by Horace Wilkinson to commemorate his daughter. The building itself looked like a large victorian house facing a tarmac playground. Opposite the school building was a world war two air raid shelter. I vaguely remember it being used for storage. Around the back of the building was a garden which we were expressly forbidden to enter. Across the road was some woodland and then the sports field. We were allowed to play in the woodland during the lunchtime break, it seemed huge to me as a small boy. I remember kicking large mounds of fallen leaves around and endless games of British Bulldog. The playing fields had a football pitch with a running track around it and there were some apparatus on the far side including a frame with ropes, that I never managed to climb to the top of.
 
 There were two full time teachers, Mr Hornsby was the the head master and taught the juniors. He’d been a soldier in Burma in WWII and sometimes liked to reminisce about the Burmese. I especially remember him describing the burmese houses which were built on stilts without walls. This made them very cool in the heat apparently. He was a very warm and engaging man and as well as working hard on our tables and writing, we also had a lot of fun. He had a record player and used to play, ‘My old man, said follow the van’, which we’d sing along with with gusto.

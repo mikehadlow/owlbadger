@@ -1,11 +1,11 @@
----
-layout: post
-title: Do Hollywood
-description: The Lemon Twigs debut album
-date: 2018-04-25
-author: Mike Hadlow
-image: img/do-hollywood.jpg
----
++++
+title = 'Do Hollywood'
+description = 'The Lemon Twigs debut album'
+date = 2018-04-25
+author = 'Mike Hadlow'
+[params]
+    image = 'img/do-hollywood.jpg'
++++
 Released in October 2016, this is the debut album by the Lemon Twigs. The creation of the teenage D’Addario brothers, Brian and Michael, it’s a work of quite astonishing precociousness.
 
 Influences from the classic past of pop and rock run strongly throughout the record, but it’s not a pastiche; the inspiration is obvious but the execution is unique and creative. Possibly being so young and unhindered by any thoughts of what they should be doing, they’ve entirely indulged themselves, throwing whatever sounded right into a richly textured matrix. It’s quirky, boy is it quirky, abrupt changes of key and pace, surprising little songwriting twists that wouldn’t be allowed in any grownup record abound. Like a Monty Python sketch, where they’ve suddenly thought, “OK, this is getting boring now, let’s just stop here and do something completely different.” they transition swiftly and skillfully between radically different sections. It’s all done with such skill and poise that it’s not at all jarring, just delightful. Surprise is a key ingredient in all great music and the D’Addario brothers supply it in abundance.

@@ -1,11 +1,12 @@
----
-layout: post
-title: The Aristocrats
-description: Debut album by supergroup session players
-date: 2018-05-23
-author: Mike Hadlow
-image: img/the-aristocrats.png
----
++++
+layout = "post"
+title = "The Aristocrats"
+description = "Debut album by supergroup session players"
+date = 2018-05-23
+author = "Mike Hadlow"
+[params]
+    image = "img/the-aristocrats.png"
++++
 This is the 2011 self named debut album of instrumental supergroup The Aristocrats. A textbook exercise in instrumental rock. No overdubs, just virtuoso guitar, bass and drums playing fusion infused rock.
 
 The Aristocrats is a band platform designed to show off the musical talents of Guthrie Govan on guitar, Bryan Beller on bass, and Marco Minnemann on drums. Each of them a well known and respected session player in their own right before coming together for this band. It’s a collection of nine tracks, three each supplied by each player. Because Beller’s bass has a very bassy tone (yes, that’s right), with hardly any high end, it’s Govan’s guitar that takes up the majority of the audio spectrum and does the main job of carrying the music. No overdubs means that you’re really just listening to an hour of a single guitar player supported by a world class rhythm section. It’s a tribute to Govan’s incredible ability and imagination that he pulls it off. I’m a great admirer of his tone, slightly distorted with much twang and articulation, rather than the over compressed and saturated tone of most contemporary shredders. This is not to denigrate the other two musicians, Minnemann’s ability to follow every twist and turn of Govan’s formidable playing is quite remarkable, while Beller plays an excellent supporting role. I suppose my only real disappointment is that his tone is so low that it leaves the bass line somewhat indistinct. It would have been nice to have him a little more Chris Squire, if you know what I mean. The production is just as it should be for this kind of album: transparent. If you noticed it, it would be wrong.
