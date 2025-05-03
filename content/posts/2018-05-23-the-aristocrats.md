@@ -5,7 +5,7 @@ description = "Debut album by supergroup session players"
 date = 2018-05-23
 author = "Mike Hadlow"
 [params]
-    image = "img/the-aristocrats.png"
+    image = "/img/the-aristocrats.png"
 +++
 This is the 2011 self named debut album of instrumental supergroup The Aristocrats. A textbook exercise in instrumental rock. No overdubs, just virtuoso guitar, bass and drums playing fusion infused rock.
 

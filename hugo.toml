@@ -1,3 +1,5 @@
 baseURL = 'https://owlbadger.com/'
 languageCode = 'en-uk'
 title = 'OwlBadger'
+[params]
+image = '/img/fx-pedals.jpg'
