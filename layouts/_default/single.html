@@ -2,7 +2,8 @@
 <div>
     <article id="content" class="content">{{ .Content }}</article>
 </div>
-<p class="subtitle is-5">
-    {{ .Page.Params.author }}, {{ .Page.Date.Format "Jan 2 2006" }}
-</p>
+<div>
+    <p>&nbsp;</p>
+    <p>{{ .Page.Params.author }}, {{ .Page.Date.Format "Jan 2 2006" }}</p>
+</div>
 {{ end }}
