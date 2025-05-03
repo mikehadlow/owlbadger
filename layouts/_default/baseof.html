@@ -21,7 +21,7 @@
         {{ end -}}
     </head>
     <body>
-        <section class="hero is-medium is-primary" style="background-image: url('{{ .Param "image" }}')">
+        <section class="hero is-medium is-primary" style="background-image: url('{{ .Param "image" }}'); background-size: cover; background-position: center;">
             <div class="hero-head">
                 <nav class="navbar">
                     <div class="container">
@@ -58,8 +58,8 @@
             </div>
             <div class="hero-body">
                 <div class="container">
-                    <p class="title is-1 has-text-white">Owlbadger</p>
-                    <p class="subtitle has-text-white">Reviews of books and music</p>
+                    <p class="title is-1 has-text-white">{{ .Title }}</p>
+                    <p class="subtitle has-text-white">{{ .Description }}</p>
                 </div>
             </div>
         </section>
