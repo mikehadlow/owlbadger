@@ -19,7 +19,7 @@
                         <em>{{ .Date.Format "Jan 2, 2006" }}</em>
                     </div>
                 </div>
-                <p>{{ .Summary }}</p>
+                <p>{{ .Content | strings.Truncate 240 }}</p>
                 <p>
                     <a href="{{ .Permalink }}"><em>Read more...</em></a>
                 </p>
