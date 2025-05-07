@@ -60,6 +60,9 @@
                 <div class="container">
                     <p class="title is-1 has-text-white">{{ .Title }}</p>
                     <p class="subtitle is-3 has-text-white">{{ .Description }}</p>
+                    {{ if .Param "book-author" }}
+                        <p class="subtitle is-3 has-text-white">By {{ .Param "book-author" }}</p>
+                    {{ end }}
                 </div>
             </div>
         </section>
@@ -68,6 +71,10 @@
                 <div class="columns">
                     <div class="column is-two-thirds">
                     {{ block "content" . }} {{ end }}
+                    {{ if and (.Param "started") (.Param "completed") }}
+                        <p><em>Read from {{ time.Format "2 Jan 2006" (time.AsTime (.Param "started")) }} to
+                            {{ time.Format "2 Jan 2006" (time.AsTime (.Param "completed")) }}</em></p>
+                    {{ end }}
                     </div>
                 </div>
             </div>

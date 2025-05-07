@@ -9,7 +9,11 @@
                 </p>
                 <div class="level">
                     <div class="level-left">
+                        {{ if .Param "book-author" }}
+                        <strong>By {{ .Param "book-author" }}</strong>
+                        {{ else }}
                         <strong>{{ .Description }}</strong>
+                        {{ end }}
                     </div>
                     <div class="level-right">
                         <em>{{ .Date.Format "Jan 2, 2006" }}</em>
