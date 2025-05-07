@@ -1,5 +1,5 @@
 +++
-title = "Book Review: Queen As It Began"
+title = "Queen As It Began"
 description = "The Authorized Biography"
 date = 2024-11-21
 author = "Mike Hadlow"

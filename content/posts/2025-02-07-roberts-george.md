@@ -1,5 +1,5 @@
 +++
-title = "Book Review: George III"
+title = "George III"
 description = "The life and reign of Britain's most misunderstood monarch"
 date = 2025-02-07
 author = "Mike Hadlow"

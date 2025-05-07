@@ -1,5 +1,5 @@
 +++
-title = "Book Review: End Times"
+title = "End Times"
 description = "Elites, Counter-Elites and the path of Political Disintegration"
 date = 2024-12-02
 author = "Mike Hadlow"

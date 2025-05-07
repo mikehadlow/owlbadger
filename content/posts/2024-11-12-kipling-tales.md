@@ -1,5 +1,5 @@
 +++
-title = "Book Review: Twenty-One Tales"
+title = "Twenty-One Tales"
 description = ""
 date = 2024-11-12
 author = "Mike Hadlow"

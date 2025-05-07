@@ -1,5 +1,5 @@
 +++
-title = "Book Review: Great Uncle Harry"
+title = "Great Uncle Harry"
 description = "A Tale of War and Empire"
 date = 2025-04-15
 author = "Mike Hadlow"

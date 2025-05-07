@@ -1,5 +1,5 @@
 +++
-title = "Book Review: Memoirs of a Georgian Rake"
+title = "Memoirs of a Georgian Rake"
 description = ""
 date = 2025-03-05
 author = "Mike Hadlow"

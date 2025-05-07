@@ -1,5 +1,5 @@
 +++
-title = "Book Review: Catatrosphe"
+title = "Catatrosphe"
 description = "Europe goes to war 1914"
 date = 2025-04-10
 author = "Mike Hadlow"
