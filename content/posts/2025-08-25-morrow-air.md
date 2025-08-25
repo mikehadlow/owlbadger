@@ -1,7 +1,7 @@
 +++
 title = "The Great War in the Air"
 description = ""
-date = 2025-07-31
+date = 2025-08-25
 author = "Mike Hadlow"
 [params]
     image = "/img/morrow-air.jpg"
