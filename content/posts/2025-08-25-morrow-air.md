@@ -13,7 +13,7 @@ author = "Mike Hadlow"
 +++
 I continue my deep dive into everything WWI. I wanted to read John Morrow’s The
 Great War in the Air after seeing it recommended on a Reddit post about the best
-books on the air war of WWI. It was first published in 1993, well withing James
+books on the air war of WWI. It was first published in 1993, well within James
 Marriott's ["sweet spot" for non-fiction
 writing](https://jmarriott.substack.com/p/how-i-read). I bought my hardback copy
 from eBay, which I now think is the best place to buy used hardbacks. I think
@@ -89,8 +89,10 @@ I can’t say this was a particularly enjoyable read. Morrow has an academic, bu
 clean, writing style. Much of it reads like a text book. All - yes all - the
 figures have to be included, which means that we are told what the production
 target was for German aircraft in May 1917, and whether the target was met.
-There were interesting points to be made, but much of it was laboured. Rather
-than all the mind numbing detail in the text, he would have been much better off
+There were interesting points to be made, but much of it was laboured.
+He very much reinforces Philips Payton O'Brian's arguments, that modern industrial
+wars are won by in factories as much as they are by armies in the field.
+I think that rather than all the mind numbing detail in the text, he would have been much better off
 shunting it to an accompanying table. Some graphs would also have helped him to
 make his points, but they are completely absent. I’m a bit geeky about
 economics, and even geekier about aircraft design, so it was worth my while to
