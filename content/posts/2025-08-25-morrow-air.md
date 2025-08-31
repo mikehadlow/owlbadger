@@ -13,19 +13,22 @@ author = "Mike Hadlow"
 +++
 I continue my deep dive into everything WWI. I wanted to read John Morrow’s The
 Great War in the Air after seeing it recommended on a Reddit post about the best
-books on the air war of WWI. It was first published in 1993. I bought my
-hardback copy from eBay. I think it’s a 90’s edition, but can’t be sure. In the
-introduction Morrow states that most previous histories of the WWI air war have
-concentrated on the exploits of individual aces, the Red Barron in his Fokker
-triplane, and the high drama of dogfights over the tranches. Morrow In contrast
-says very little about the actual fighting, instead he describes how the
-organisation and leadership of the various combatants’ airforces evolved over
-the four and a half years of the war, and how the vast industrial enterprise
-needed to support ever larger airforces was created almost from scratch. The
-book is chronological; there is an initial chapter about the years leading up to
-1914, and then a (long) chapter for each year of the war. Each chapter is
-subdivided into sections for each of the combatant powers, usually with a long
-section for France, German, and Britain, and then shorter summaries for Russia,
+books on the air war of WWI. It was first published in 1993, well withing James
+Marriott's ["sweet spot" for non-fiction
+writing](https://jmarriott.substack.com/p/how-i-read). I bought my hardback copy
+from eBay, which I now think is the best place to buy used hardbacks. I think
+it’s a 90’s edition, maybe even a first edition, but can’t be sure. In the introduction
+Morrow states that most previous histories of the WWI air war have concentrated
+on the exploits of individual aces, the Red Barron in his Fokker triplane, and
+the high drama of dogfights over the tranches. Morrow In contrast says very
+little about the actual fighting, instead he describes how the organisation and
+leadership of the various combatants’ airforces evolved over the four and a half
+years of the war, and how the vast industrial enterprise needed to support ever
+larger airforces was created almost from scratch. The book is chronological;
+there is an initial chapter about the years leading up to 1914, and then a
+(long) chapter for each year of the war. Each chapter is subdivided into
+sections for each of the combatant powers, usually with a long section for
+France, German, and Britain, and then shorter summaries for Russia,
 Austria-Hungry, and Italy. I kept another eBay purchase, Jack Herris’s Aircraft
 of World War I, open beside me as I read Morrow, because it has beautiful full
 colour illustrations of the aircraft. I can’t read about machines without
