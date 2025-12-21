@@ -14,13 +14,13 @@ author = "Mike Hadlow"
 My 2025 deep dive into all things WWI now comes to an end with the mother-lode,
 the original war memoir, published before all the others soon after the end of
 the war in 1920. It’s frequently listed as an essential WWI read alongside the
-British memoirs of Sassoon and Graves and the more well know, but later German
+British memoirs of Sassoon and Graves and the more well known, but later German
 war memoir, Remarque’s All Quiet on the Western Front. If there’s a Folio
 Society edition of a book, I’d much rather read that than a mass market
 hardback or paperback. There’s a visceral pleasure in a beautifully bound
 volume with heavy high-quality paper. Second-hand Folio books are widely
 available on eBay and are often unread. I think many people buy them just to
-put on their shelves. My Dad certainly did! A found a copy the Folio edition of
+put on their shelves. My Dad certainly did! I found a copy the Folio edition of
 Storm of Steel at a very reasonable price. it’s missing its slipcase, but
 otherwise in immaculate condition. Jünger revised the book continually, and I
 gather than my copy is a modern translation of a 1930s revision. There’s an
@@ -32,7 +32,7 @@ Ernst Jünger is an interesting character. He lived to the remarkable age of
 102, only passing away in 1998 having seen pretty much all of the 20th century.
 An arch conservative, anti-materialist, and anti-liberal, he believed that life
 was given value by suffering and pain, and was very much an adherent of
-Nietzsche’s “What doesn’t kill me makes me stronger.” philosophy. He relished
+Nietzsche’s “What doesn’t kill me makes me stronger.” He relished
 war, and served again in WWII as an army Captain, although in the decidedly
 cushier role as an occupier in Paris. To his credit though, he wasn’t a fan of
 the Nazis and was a peripheral player in the 1944 plot to murder Hitler. He
