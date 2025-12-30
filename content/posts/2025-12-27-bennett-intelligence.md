@@ -11,21 +11,25 @@ author = "Mike Hadlow"
     completed = "2025-12-27"
     tags = ["book"]
 +++
+"A lot of AI researchers think this is a really good book." - Adam Marblestone,
+AI researcher and CEO of Convergent Research speaking on the Dwarkesh podcast.
+
 I first read about this book via author and columnist Ian Leslie’s substack
 newsletter. He’d written a review and then later had the author Max Bennett to
-interview on his podcast, which I also listened to. I am fascinated by
-discussions of how our brains work and was intrigued by a book that offered an
-overview of all the latest advancements in neuroscience, especially as it
-promised to also look at how this could influence, and be influenced by AI
-research. It was published in 2023. I bought my hardback copy from Amazon in
-August this year almost immediately after reading Ian Leslie’s review. The
-purchase-to-read time of 5 months is remarkably low for me, which is a mark of
-how keen I was to read it. Max Bennett is an interesting character. He’s not a
-neuroscientist or evolutionary psychologist, but a US startup founder. He sold
-his company BlueCore, an AI system for product recommendations, for a sizable
-sum and now devotes much of his time to his passion project. While not an
-academic, he’s no lightweight dilettante, having published several peer
-reviewed papers on the subject.
+interview on his podcast, which I also listened to. Since then I've heard it
+repeatedly referenced in discussions of how LLMs differ from human brains. I am
+fascinated by discussions of how our brains work and was intrigued by a book
+that offered an overview of all the latest advancements in neuroscience,
+especially as it promised to also look at how this could influence, and be
+influenced by AI research. It was published in 2023. I bought my hardback copy
+from Amazon in August this year almost immediately after reading Ian Leslie’s
+review. The purchase-to-read time of 5 months is remarkably low for me, which
+is a mark of how keen I was to read it. Max Bennett is an interesting
+character. He’s not a neuroscientist or evolutionary psychologist, but a US
+startup founder. He sold his company BlueCore, an AI system for product
+recommendations, for a sizable sum and now devotes much of his time to his
+passion project. While not an academic, he’s no lightweight dilettante, having
+published several peer reviewed papers on the subject.
 
 The book takes us on a tour of brain evolution from the earliest animals that
 evolved neurons as simple cellular wires to join sensors to muscles around 600
