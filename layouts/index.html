@@ -1,32 +1,15 @@
 {{ define "content"}}
-<ul>
+<div class="content">
     {{ range where .Site.RegularPages "Section" "posts" }}
-    <li class="card">
-        <div class="card-content">
-            <div class="content">
-                <p class="is-size-4">
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                </p>
-                <div class="level">
-                    <div class="level-left">
-                        {{ if .Param "book-author" }}
-                        <strong>By {{ .Param "book-author" }}</strong>
-                        {{ else }}
-                        <strong>{{ .Description }}</strong>
-                        {{ end }}
-                    </div>
-                    <div class="level-right">
-                        <em>{{ .Date.Format "Jan 2, 2006" }}</em>
-                    </div>
-                </div>
-                <p>{{ .Content | strings.Truncate 240 }}</p>
-                <p>
-                    <a href="{{ .Permalink }}"><em>Read more...</em></a>
-                </p>
-            </div>
-        </div>
-    </li>
-    <br />
+    <a href="{{ .Permalink }}" class="columns is-mobile is-gapless mb-2">
+        <span class="column is-narrow" style="width: 7rem;">{{ .Date.Format "Jan 2, 2006" }}</span>
+        <span class="column is-narrow has-text-weight-bold" style="width: 22rem;">{{ .Title }}</span>
+        {{ if .Param "book-author" }}
+        <span class="column">{{ .Param "book-author" }}</span>
+        {{ else if .Description }}
+        <span class="column">{{ .Description }}</span>
+        {{ end }}
+    </a>
     {{ end }}
-</ul>
+</div>
 {{ end }}
