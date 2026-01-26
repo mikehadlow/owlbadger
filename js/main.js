@@ -18,6 +18,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const lightIcon = document.getElementById('theme-icon-light');
     const darkIcon = document.getElementById('theme-icon-dark');
 
+    function getStoredTheme() {
+        return localStorage.getItem('theme') ||
+            (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    }
+
     function updateIcon(theme) {
         if (theme === 'dark') {
             lightIcon.style.display = 'none';
@@ -28,14 +33,16 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Set initial icon state
-    updateIcon(document.documentElement.getAttribute('data-theme'));
+    // Ensure theme is applied (fallback if early script missed)
+    const storedTheme = getStoredTheme();
+    document.documentElement.setAttribute('data-theme', storedTheme);
+    updateIcon(storedTheme);
 
     themeToggle.addEventListener('click', () => {
-        const currentTheme = document.documentElement.getAttribute('data-theme');
+        const currentTheme = getStoredTheme();
         const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        document.documentElement.setAttribute('data-theme', newTheme);
         localStorage.setItem('theme', newTheme);
+        document.documentElement.setAttribute('data-theme', newTheme);
         updateIcon(newTheme);
     });
 
