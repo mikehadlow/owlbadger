@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Important Rules
+
+1. Never run `git push`. Only the user is allow to push to origin.
+
 ## Project Overview
 
 Owlbadger is a static music and book review blog hosted at owlbadger.com, built with Hugo and styled with Bulma CSS.
