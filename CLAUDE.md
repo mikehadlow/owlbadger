@@ -42,10 +42,11 @@ date = 2026-01-24
 author = "Mike Hadlow"
 [params]
     image = "/img/cover-image.jpg"
-    category = "Art"  # or "Music"
+    category = "Art"
     book-author = "Author Name"  # for book reviews
     started = "2026-01-14"
     completed = "2026-01-24"
+    tags = ["book"]
 +++
 ```
 
