@@ -7,3 +7,6 @@ This is a static site generated with the [Hugo](https://gohugo.io/) static site 
 ### Run locally:
 1. Install [Hugo](https://gohugo.io/)
 1. In the root run `hugo server`
+
+### Scripts
+- **Extract frontmatter:** `bun run scripts/extract-frontmatter.ts` - Outputs JSON array of all post filenames and their parsed TOML frontmatter

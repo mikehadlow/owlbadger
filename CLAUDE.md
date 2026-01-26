@@ -14,6 +14,7 @@ Owlbadger is a static music and book review blog hosted at owlbadger.com, built 
 
 - **Run locally:** `hugo server` (live reloads on file changes)
 - **Build for production:** `hugo --minify`
+- **Extract frontmatter:** `bun run scripts/extract-frontmatter.ts` - Outputs JSON array of all post filenames and their parsed TOML frontmatter
 
 Deployment is automated via GitHub Actions on push to `master` - builds and deploys to GitHub Pages.
 
