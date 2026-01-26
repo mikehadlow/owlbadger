@@ -3,13 +3,13 @@ title = "All That Glitters"
 description = ""
 date = 2026-01-13
 author = "Mike Hadlow"
+
 [params]
-    image = "/img/whitfield-glitters.jpg"
-    category = "Art"
-    book-author = "Orlando Whitfield"
-    started = "2026-01-06"
-    completed = "2026-01-13"
-    tags = ["book"]
+image = "/img/whitfield-glitters.jpg"
+book-author = "Orlando Whitfield"
+started = "2026-01-06"
+completed = "2026-01-13"
+tags = [ "book", "Art" ]
 +++
 I’m very lucky to live in the beautiful old town of Lewes, nestled in the South
 Downs, with its castle and narrow Anglo-Saxon lanes. One particular treat the

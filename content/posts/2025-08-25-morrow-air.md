@@ -3,13 +3,13 @@ title = "The Great War in the Air"
 description = ""
 date = 2025-08-25
 author = "Mike Hadlow"
+
 [params]
-    image = "/img/morrow-air.jpg"
-    category = "WWI"
-    book-author = "John H Morrow"
-    started = "2025-07-23"
-    completed = "2025-08-24"
-    tags = ["book"]
+image = "/img/morrow-air.jpg"
+book-author = "John H Morrow"
+started = "2025-07-23"
+completed = "2025-08-24"
+tags = [ "book", "WWI" ]
 +++
 I continue my deep dive into everything WWI. I wanted to read John Morrow’s The
 Great War in the Air after seeing it recommended on a Reddit post about the best

@@ -3,13 +3,13 @@ title = "Goodbye To All That"
 description = ""
 date = 2025-05-26
 author = "Mike Hadlow"
+
 [params]
-    image = "/img/graves-goodbye.jpg"
-    category = "WWI"
-    book-author = "Robert Graves"
-    started = "2025-05-10"
-    completed = "2025-05-26"
-    tags = ["book"]
+image = "/img/graves-goodbye.jpg"
+book-author = "Robert Graves"
+started = "2025-05-10"
+completed = "2025-05-26"
+tags = [ "book", "WWI" ]
 +++
 My continuing obsession with all things WWI took a turn away from history books to this, probably the most famous memoir of the war. It's another of my Dad's Folio Society volumnes that I've inherted. I wonder if he ever read it?
 

@@ -3,13 +3,13 @@ title = "Storm of Steel"
 description = ""
 date = 2025-12-07
 author = "Mike Hadlow"
+
 [params]
-    image = "/img/junger-storm.jpg"
-    category = "WWI"
-    book-author = "Ernst Jünger"
-    started = "2025-11-28"
-    completed = "2025-12-07"
-    tags = ["book"]
+image = "/img/junger-storm.jpg"
+book-author = "Ernst Jünger"
+started = "2025-11-28"
+completed = "2025-12-07"
+tags = [ "book", "WWI" ]
 +++
 My 2025 deep dive into all things WWI now comes to an end with the mother-lode,
 the original war memoir, published before all the others soon after the end of

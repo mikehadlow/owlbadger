@@ -4,7 +4,8 @@ description = 'My primary school years.'
 date = 2012-01-06
 author = 'Mike Hadlow'
 [params]
-  image = '/img/st-lawrence.jpg'
+    image = '/img/st-lawrence.jpg'
+    tags = ["anecdote"]
 +++
 Seal St. Lawrence was my primary school, a tiny church of England school attached to the parish church.
 

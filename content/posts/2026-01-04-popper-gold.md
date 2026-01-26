@@ -3,13 +3,13 @@ title = "Digital Gold"
 description = "The untold story of Bitcoin"
 date = 2026-01-04
 author = "Mike Hadlow"
+
 [params]
-    image = "/img/popper-gold.jpg"
-    category = "Tech"
-    book-author = "Nathaniel Popper"
-    started = "2025-12-28"
-    completed = "2026-01-04"
-    tags = ["book"]
+image = "/img/popper-gold.jpg"
+book-author = "Nathaniel Popper"
+started = "2025-12-28"
+completed = "2026-01-04"
+tags = [ "book", "Tech" ]
 +++
 I’ve been interested in Bitcoin for a decade or so, but unfortunately was never
 brave enough to put any of my hard earned money into it. Nevermind. I’ve read

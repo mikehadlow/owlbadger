@@ -3,13 +3,13 @@ title = "The Country House At War"
 description = ""
 date = 2025-09-17
 author = "Mike Hadlow"
+
 [params]
-    image = "/img/greaves-house.jpg"
-    category = "WWI"
-    book-author = "Simon Greaves"
-    started = "2025-09-09"
-    completed = "2025-09-17"
-    tags = ["book"]
+image = "/img/greaves-house.jpg"
+book-author = "Simon Greaves"
+started = "2025-09-09"
+completed = "2025-09-17"
+tags = [ "book", "WWI" ]
 +++
 I’ve had The Country House At War ever since it was published by the National
 Trust to commemorate the centenary of the end of WWI in 2018. I bought it
