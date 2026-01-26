@@ -1,7 +1,7 @@
 {{ define "content"}}
 <div class="content">
     {{ range where .Site.RegularPages "Section" "posts" }}
-    <a href="{{ .Permalink }}" class="columns is-mobile is-gapless mb-2">
+    <a href="{{ .Permalink }}" class="columns is-mobile is-gapless mb-2" style="color: inherit;">
         <span class="column is-narrow" style="width: 7rem;">{{ .Date.Format "Jan 2, 2006" }}</span>
         <span class="column is-narrow has-text-weight-bold" style="width: 22rem;">{{ .Title }}</span>
         {{ if .Param "book-author" }}
