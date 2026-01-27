@@ -1,7 +1,7 @@
 +++
 title = "Testament of Youth"
 description = ""
-date = 2025-11-27
+date = "2025-11-27"
 author = "Mike Hadlow"
 
 [params]
@@ -9,7 +9,7 @@ image = "/img/brittain-testament.jpg"
 book-author = "Vera Britain"
 started = "2025-11-04"
 completed = "2025-11-27"
-tags = [ "book", "WWI" ]
+tags = [ "Book", "WWI" ]
 +++
 My year of marinating in all things WWI continues with Vera Brittain’s
 Testament of Youth. It had been on my list from earlier in the year simply

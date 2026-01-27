@@ -1,7 +1,7 @@
 +++
 title = "Staring At God"
 description = "Britain in the Great War"
-date = 2025-07-21
+date = "2025-07-21"
 author = "Mike Hadlow"
 
 [params]
@@ -9,7 +9,7 @@ image = "/img/heffer-god.jpg"
 book-author = "Simon Heffer"
 started = "2025-06-16"
 completed = "2025-07-21"
-tags = [ "book", "WWI" ]
+tags = [ "Book", "WWI" ]
 +++
 This book forms part 3 of Simon Heffer’s ambitious 4 volume history of the UK between the start of the Victorian era in the 1830s to the outbreak of WWII in 1939. It covers the 4 years of WWI from 1914 to 1918. The other 3 volumes all cover much longer periods: High Minds, over 40 years (1830s to 1880), The Age of Decadence, 34 years (1880 to 1914), and Sing As We Go, 20 years (1919 to 1939). It’s the first of this series I’ve read, but I’m assuming that it has a rather different character than the others due to its condensed time period. It was first published in 2019. I first came across the book and Simon Heffer when he spoke at Lewes Speaker’s festival in January ‘22. He’s a good speaker and it was an excellent talk - he spent most of it excoriating Lloyd George, who he compared to Boris Johnson, much to the audience’s amusement. Afterwards I had a brief chat with him and purchased a paperback copy which he was kind enough to sign. I later exchanged it for a hardback. There’s nothing less ergonomic than attempting to read a 800 page paperback. I realise I’ve become quite a book snob and always prefer hardbacks, and even better, Folio editions if at all possible. In the meantime I’ve also bought the rest of the series, all in hardback of course. They sit on my bookshelf next my complete David Kynaston awaiting my attention. I expect I’ll tackle Sing As We Go next.
 

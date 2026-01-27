@@ -2,11 +2,12 @@
 layout = "post"
 title = "Awaken My Love!"
 description = "Wonderful 2016 funk experiment by Childish Gambino"
-date = 2018-07-09
+date = "2018-07-09"
 author = "Mike Hadlow"
+
 [params]
-    image = "/img/awaken-my-love.jpg"
-    tags = ["music"]
+image = "/img/awaken-my-love.jpg"
+tags = [ "Music" ]
 +++
 "Awaken, My Love!" is the 2016 studio album by Donald Glover, under his stage name Childish Gambino. A modern take on 70’s psychedelic funk and somewhat of a Prince tribute, it manages to combine crowd pleasing melodies with some quite messy left-field experimentation making it one of the more interesting records of the last few years.
 

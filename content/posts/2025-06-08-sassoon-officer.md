@@ -1,7 +1,7 @@
 +++
 title = "Memoirs of an Infantry Officer"
 description = ""
-date = 2025-06-08
+date = "2025-06-08"
 author = "Mike Hadlow"
 
 [params]
@@ -9,7 +9,7 @@ image = "/img/sassoon-officer.jpg"
 book-author = "Siegfried Sassoon"
 started = "2025-05-27"
 completed = "2025-06-08"
-tags = [ "book", "WWI" ]
+tags = [ "Book", "WWI" ]
 +++
 This was another Folio Society volume, printed in 1974 around 50 years ago, closer in time to the book’s original publication in 1930 than to the present day, and liberated from my Dad’s bookshelf. I’ve no idea if he’d ever read it. It was in almost pristine condition inside its slip case. The books is a fictionalised account of Sassoon’s life during WWI; he is George Sherston in the book, but mostly true to the facts apparently. It’s the middle volume of a trilogy, all of which I have, the others being Memoirs of a Fox Hunting Man, and Sherston’s Progress. A decade ago I’d read Memoirs of a Foxhunting Man, the fictionalised account of his life up to WWI, but I’d not followed up with its sequel until now. I was prompted by my current obsession with all things WWI, and having just read Robert Graves’ Goodbye to all That, this seemed the obvious thing to read next. I mentioned to my Mum that I was reading it, and she reminded me that there was a female Sassoon who was a member of St Julians. She was a good friend of Stella’s apparently and a great niece of Segfried. Mum also speculated that she had a daughter my age. I vaguely remembered spending some time with a Sassoon one summer by the pool, a friendly girl with a mass of curly black hair. Did we have a brief fling? Odd to think that there’s some tenuous connection with the great man.
 

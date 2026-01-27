@@ -1,11 +1,12 @@
 +++
-title = 'Do Hollywood'
-description = 'The Lemon Twigs debut album'
-date = 2018-04-25
-author = 'Mike Hadlow'
+title = "Do Hollywood"
+description = "The Lemon Twigs debut album"
+date = "2018-04-25"
+author = "Mike Hadlow"
+
 [params]
-    image = '/img/do-hollywood.jpg'
-    tags = ["music"]
+image = "/img/do-hollywood.jpg"
+tags = [ "Music" ]
 +++
 Released in October 2016, this is the debut album by the Lemon Twigs. The creation of the teenage D’Addario brothers, Brian and Michael, it’s a work of quite astonishing precociousness.
 

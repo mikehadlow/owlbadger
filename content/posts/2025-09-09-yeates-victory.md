@@ -1,7 +1,7 @@
 +++
 title = "Winged Victory"
 description = ""
-date = 2025-09-09
+date = "2025-09-09"
 author = "Mike Hadlow"
 
 [params]
@@ -9,7 +9,7 @@ image = "/img/yeates-victory.jpg"
 book-author = "W.M. Yeates"
 started = "2025-08-25"
 completed = "2025-09-09"
-tags = [ "book", "WWI" ]
+tags = [ "Book", "WWI" ]
 +++
 After reading John Morrow’s very technical history of the WWI air war, The Great
 War in the Air, I felt the need for a more personal account. I’d read Cecil

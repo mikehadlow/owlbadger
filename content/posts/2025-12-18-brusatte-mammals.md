@@ -1,7 +1,7 @@
 +++
 title = "The Rise And Reign Of The Mammals"
 description = ""
-date = 2025-12-18
+date = "2025-12-18"
 author = "Mike Hadlow"
 
 [params]
@@ -9,7 +9,7 @@ image = "/img/brusatte-mammals.jpg"
 book-author = "Steve Brusatte"
 started = "2025-12-08"
 completed = "2025-12-18"
-tags = [ "book", "Natural History" ]
+tags = [ "Book", "Natural History" ]
 +++
 I bought this book soon after it was first published back in 2022, so my copy
 is a first edition hardback. It has a very attractive gold and blue dust cover

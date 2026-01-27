@@ -1,7 +1,7 @@
 +++
 title = "Seven Pillars of Wisdom"
 description = ""
-date = 2025-10-21
+date = "2025-10-21"
 author = "Mike Hadlow"
 
 [params]
@@ -9,7 +9,7 @@ image = "/img/lawrence-seven.jpg"
 book-author = "T E Lawrence"
 started = "2025-09-17"
 completed = "2025-10-21"
-tags = [ "book", "WWI" ]
+tags = [ "Book", "WWI" ]
 +++
 Looking back in my diary, I found the day I bought this book: Saturday 4th March
 2023. I stumbled on it while browsing in the back room of the Flea Market on
