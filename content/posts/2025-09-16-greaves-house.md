@@ -9,7 +9,7 @@ image = "/img/greaves-house.jpg"
 book-author = "Simon Greaves"
 started = "2025-09-09"
 completed = "2025-09-17"
-tags = [ "Book", "WWI" ]
+tags = [ "Book", "History", "WWI" ]
 +++
 I’ve had The Country House At War ever since it was published by the National
 Trust to commemorate the centenary of the end of WWI in 2018. I bought it

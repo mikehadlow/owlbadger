@@ -9,7 +9,7 @@ image = "/img/graves-goodbye.jpg"
 book-author = "Robert Graves"
 started = "2025-05-10"
 completed = "2025-05-26"
-tags = [ "Book", "WWI" ]
+tags = [ "Book", "History", "WWI" ]
 +++
 My continuing obsession with all things WWI took a turn away from history books to this, probably the most famous memoir of the war. It's another of my Dad's Folio Society volumnes that I've inherted. I wonder if he ever read it?
 

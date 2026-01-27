@@ -9,7 +9,7 @@ image = "/img/remarque-quiet.jpg"
 book-author = "Erich Maria Remarque"
 started = "2025-10-25"
 completed = "2025-11-03"
-tags = [ "Book", "WWI" ]
+tags = [ "Book", "History", "WWI" ]
 +++
 My year of WWI reading is coming to a close with less than two months to go.
 It's fitting that towards the end I turned to what is probably the most famous
