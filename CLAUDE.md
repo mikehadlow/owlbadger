@@ -16,8 +16,36 @@ Owlbadger is a static music and book review blog hosted at owlbadger.com, built 
 - **Run locally:** `hugo server` (live reloads on file changes)
 - **Build for production:** `hugo --minify`
 - **Extract frontmatter:** `bun run scripts/extract-frontmatter.ts` - Outputs JSON array of all post filenames and their parsed TOML frontmatter
+- **Update frontmatter:** `bun run scripts/update-frontmatter.ts <file.json>` - Updates post frontmatter from JSON (also accepts stdin)
 
 Deployment is automated via GitHub Actions on push to `master` - builds and deploys to GitHub Pages.
+
+## Bulk Frontmatter Changes
+
+To make bulk changes to post frontmatter:
+
+1. Extract frontmatter to JSON:
+   ```bash
+   bun run scripts/extract-frontmatter.ts > temp/frontmatter.json
+   ```
+
+2. Modify the JSON (via script or manually). Example using bun:
+   ```bash
+   bun -e "
+   const data = await Bun.file('temp/frontmatter.json').json();
+   for (const entry of data) {
+     // modify entry.frontmatter as needed
+   }
+   await Bun.write('temp/frontmatter.json', JSON.stringify(data, null, 2));
+   "
+   ```
+
+3. Apply changes to markdown files:
+   ```bash
+   bun run scripts/update-frontmatter.ts temp/frontmatter.json
+   ```
+
+Note: The `temp/` directory is gitignored for working files.
 
 ## Architecture
 
