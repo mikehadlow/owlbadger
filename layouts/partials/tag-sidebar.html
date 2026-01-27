@@ -27,11 +27,11 @@
         {{- $parent := . -}}
         {{- $children := index $hierarchy $parent -}}
         <li>
-            <span>{{ $parent }}</span>
+            <a href="{{ printf "/tags/%s/" ($parent | urlize) }}">{{ $parent }}</a>
             {{- if $children -}}
             <ul>
                 {{- range sort $children -}}
-                <li><span>{{ . }}</span></li>
+                <li><a href="{{ printf "/tags/%s/" (. | urlize) }}">{{ . }}</a></li>
                 {{- end -}}
             </ul>
             {{- end -}}
