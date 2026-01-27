@@ -95,6 +95,7 @@
                             {{ time.Format "2 Jan 2006" (time.AsTime (.Param "completed")) }}</em></p>
                     {{ end }}
                     </div>
+                    {{ block "sidebar" . }}{{ end }}
                 </div>
             </div>
         </section>
