@@ -5,6 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Important Rules
 
 1. Never run `git push`. Only the user is allow to push to origin.
+2. The user will run `hugo server` before each session. Use `curl http://localhost:1313/...` to verify any changes.
 
 ## Project Overview
 
