@@ -1,0 +1,41 @@
+<aside class="menu">
+    <p class="menu-label">Categories</p>
+    {{- $hierarchy := dict -}}
+    {{- range where .Site.RegularPages "Section" "posts" -}}
+        {{- $tags := .Params.tags -}}
+        {{- if $tags -}}
+            {{- $parent := index $tags 0 -}}
+            {{- $children := slice -}}
+            {{- if gt (len $tags) 1 -}}
+                {{- $children = after 1 $tags -}}
+            {{- end -}}
+            {{- $existing := index $hierarchy $parent | default slice -}}
+            {{- range $children -}}
+                {{- if not (in $existing .) -}}
+                    {{- $existing = $existing | append . -}}
+                {{- end -}}
+            {{- end -}}
+            {{- $hierarchy = merge $hierarchy (dict $parent $existing) -}}
+        {{- end -}}
+    {{- end -}}
+    <ul class="menu-list">
+        {{- $parents := slice -}}
+        {{- range $parent, $_ := $hierarchy -}}
+            {{- $parents = $parents | append $parent -}}
+        {{- end -}}
+        {{- range sort $parents -}}
+        {{- $parent := . -}}
+        {{- $children := index $hierarchy $parent -}}
+        <li>
+            <span>{{ $parent }}</span>
+            {{- if $children -}}
+            <ul>
+                {{- range sort $children -}}
+                <li><span>{{ . }}</span></li>
+                {{- end -}}
+            </ul>
+            {{- end -}}
+        </li>
+        {{- end -}}
+    </ul>
+</aside>

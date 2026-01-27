@@ -16,13 +16,6 @@
 
 {{ define "sidebar" }}
 <div class="column">
-    <aside class="menu">
-        <p class="menu-label">Categories</p>
-        <ul class="menu-list">
-            <li><a>Placeholder Category 1</a></li>
-            <li><a>Placeholder Category 2</a></li>
-            <li><a>Placeholder Category 3</a></li>
-        </ul>
-    </aside>
+    {{ partial "tag-sidebar.html" . }}
 </div>
 {{ end }}
