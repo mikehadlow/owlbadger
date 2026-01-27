@@ -9,7 +9,7 @@ image = "/img/bennett-intelligence.jpg"
 book-author = "Max Bennett"
 started = "2025-12-18"
 completed = "2025-12-27"
-tags = [ "Book", "Natural History" ]
+tags = [ "Book", "Science" ]
 +++
 "A lot of AI researchers think this is a really good book." - Adam Marblestone,
 AI researcher and CEO of Convergent Research speaking on the Dwarkesh podcast.
