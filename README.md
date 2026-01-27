@@ -10,3 +10,7 @@ This is a static site generated with the [Hugo](https://gohugo.io/) static site 
 
 ### Scripts
 - **Extract frontmatter:** `bun run scripts/extract-frontmatter.ts` - Outputs JSON array of all post filenames and their parsed TOML frontmatter
+
+## Sidebar
+
+The site displays a hierarchical tag sidebar on the homepage and tag archive pages. Tags in post frontmatter are organized as parent/child: the first tag becomes the parent category (e.g., "book", "music"), and any additional tags become children (e.g., "History", "Science"). Each tag links to its archive page at `/tags/<tag-name>/`.

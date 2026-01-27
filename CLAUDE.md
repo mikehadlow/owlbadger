@@ -42,13 +42,21 @@ date = 2026-01-24
 author = "Mike Hadlow"
 [params]
     image = "/img/cover-image.jpg"
-    category = "Art"
     book-author = "Author Name"  # for book reviews
     started = "2026-01-14"
     completed = "2026-01-24"
-    tags = ["book"]
+    tags = ["book", "History"]
 +++
 ```
+
+## Sidebar
+
+The homepage and tag pages display a hierarchical tag sidebar. Tags are organized as a two-level hierarchy based on the `tags` array in post frontmatter:
+
+- **First tag** → parent category (e.g., "book", "music")
+- **Remaining tags** → children under that parent (e.g., "History", "Science")
+
+The sidebar is rendered by `layouts/partials/tag-sidebar.html` and links to tag archive pages at `/tags/<tag-name>/`.
 
 ## Workflow
 
