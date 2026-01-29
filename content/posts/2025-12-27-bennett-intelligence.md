@@ -1,6 +1,6 @@
 +++
 title = "A Brief History of Intelligence"
-description = ""
+description = "Why the Evolution of the Brain Holds the Key to the Future of AI"
 date = "2025-12-27"
 author = "Mike Hadlow"
 
