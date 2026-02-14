@@ -17,7 +17,7 @@ independent bookshop, Bookers. Mum had given me a Bookers gift card for
 Christmas, so when I saw this signed copy of Tony Blair’s On Leadership it
 seemed like the obvious thing to spend it on. I have no idea how a little
 bookshop on the Welsh Borders managed to get hold of a signed copy, and the
-Saturday-job girl behind the counter didn’t know. 
+Saturday-job girl behind the counter couldn't help me. 
 
 Tony Blair was, of course, Prime Minister of the UK from 1997 to 2007. He was
 the last decent prime minister this country had. Since then it’s been a
