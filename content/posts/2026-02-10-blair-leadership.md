@@ -46,6 +46,20 @@ lot come along. Reading it made we wonder if Blair talked to Kier Starmer (he
 apparently did), because it reads as list of everything that Starmer has failed
 to do. 
 
+I thought the point about having the right people was very relevant to our
+country's predicament. We just don't seem to be attracting top quality people
+into politics; Kier Starmer and his crew are a case in point, a second rate
+bunch better for nothing more than being middle managers in an insurance
+company. I hold the unpopular point of view that our politicians are paid far
+too little. They should have salaries equivalent to corporate leaders, with the
+PM on at least a million per year with a full staff. The fact that a minister
+is hounded out of office because she skimped on paying stamp duty is a joke.
+She should have had staff to handle it and lawyers available to sign-off on the
+transaction. I also think that democratic party elections for candidates and
+leaders is a mistake. Political parties are always far more extreme than
+their electorate, and having the membership choose the leader results in
+disasters like Liz "Lettice" Trust, and Jeremy Corbyn.
+
 The “Delivery” section makes the obvious point that it’s easy to talk about
 making changes, but difficult to carry them out. Indeed I spend many hours with
 friends over coffee debating exactly how we’d sort the country out. He points
