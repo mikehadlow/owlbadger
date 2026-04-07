@@ -62,8 +62,8 @@ believe. But it picked up in the second half. There were a couple of very good
 comedic set piece scenes including a hilarious passage when Adam goes to visit
 Nina’s father to arrange their marriage only to find him acting in a “talkie”.
 Arriving, Adam is informed about a “shoot” and there’s a hilarious
-misunderstanding as he assumes it means shooting pheasants - and various people
-- not making a film. This is followed by another excellent episode as Adam and
+misunderstanding as he assumes it means shooting pheasants, and various people,
+not making a film. This is followed by another excellent episode as Adam and
 some friends attend a motor race and accidentally get involved. The major
 reappears and says he has Adam’s winnings from the horse race, a total of
 £37,000, and a fortune at the time. Adam’s elation turns to despair when he
