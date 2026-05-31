@@ -5,7 +5,7 @@ date = "2026-05-29"
 author = "Mike Hadlow"
 [params]
 image = "/img/vonnegut-pity.jpg"
-book-author = "Kurt Vonnegut"
+book-author = "Suzanne McConnell"
 started = "2026-05-22"
 completed = "2026-05-29"
 tags = ["Book", "Writing"]
