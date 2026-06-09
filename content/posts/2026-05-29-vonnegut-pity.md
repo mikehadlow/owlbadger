@@ -88,7 +88,7 @@ saying that it was much harder to make a living than when he started in the
 writing is one of those power-law careers where the vast majority of those who
 aspire to be writers make little or no money, while a tiny minority take the
 lion’s share of the rewards. It’s the same for other artistic pursuits like
-painting and music.
+painting and music. 
 
 So, in conclusion, I found this book a bit of an effort. It’s annoyingly
 folksy and hagiographic. Vonnegut is painted as a kind of secular buddha with
