@@ -10,4 +10,160 @@ started = "2026-05-11"
 completed = "2026-06-06"
 tags = ["Book", "Interwar"]
 +++
-TODO
+I was not aware of Anthony Powell or his acclaimed book series, A Dance to the
+Music of Time, before I started planning this year’s reading list for the
+interwar period. I was introduced to it while searching for novels about
+Britain in the period. Of course I’d already included Evelyn Waugh and George
+Orwell, and at first I wasn’t sure about adding Dance, simply because it’s so
+long, twelve books, and also because Powell wrote it in the 50s, 60s, and 70s.
+Then I discovered the four volume Folio Society edition and couldn’t resist. I
+found the volumes on eBay and paid £150 for the set; probably too much; but
+they do look impressive on my bookshelf. They are the usual beautifully bound
+and printed Folio quality, and are as-new, despite having been printed 20 years
+ago. It simply reinforces my view that most Folio books are bought and left on
+the shelf unread until the owner, or their heirs, decide to sell them.
+
+Anthony Powell, was born in 1905 into an aristocratic military family. He
+attended Eton and Oxford, where he was a friend of Evelyn Waugh. He published
+several novels in the 1930s and was an army officer during the war. Dance is
+his best regarded work, often described as a Roman-fleuve, with Powell as the
+English Proust. The series is narrated by Nicholas Jenkins, who, to all intents
+and purposes, is Powell. He is born around the same time, is the son of an army
+officer, attends Eton and Oxford, and then lives in London and publishes his
+first novel in 1931, the same year that Powell published his. One assumes that
+the characters in Dance are modelled on Powell’s family and friends. It’s the
+semi-autobiographical basis of Dance that probably makes it such an acute lens
+into upper class society of the time.
+
+While reading about Dance, I also discovered Hilary Spurling’s book, Invitation
+to the Dance. It’s a guidebook to the series with a character index, an art and
+music index, and a synopsis. I immediately ordered it from Amazon, and it’s
+been incredibly useful for keeping track of the vast cast of characters. You
+know you’ve got a serious work in front of you when it requires a guidebook!
+
+This review covers the first volume of the four volume Folio publication. Each
+volume contains three of the original novels. The individual novels are not
+long, each under 200 pages, so the volume in total was around 500 pages. I’ll
+give a brief synopsis of each of the books below. Spurling gives a useful guide
+to the approximate time period that each of the book’s chapters covers, I’ve
+used this to give each novel’s period.
+
+A Question of Upbringing 1921-24
+
+This covers Jenkins time at Eton and Oxford. Spurling thinks Jenkins was born
+in 1906 or 7, so he’s 14 or 15 when the series opens. We are immediately
+introduced to some frequently recurring characters: his school friends Charles
+Stringham and Peter Templer, a bumbling accident prone boy, Kenneth Widmerpool,
+their housemaster Le Bas,  and Jenkins’ Uncle Giles. Neither Eton nor Oxford
+are explicitly named. In between Eton and Oxford Jenkins spends some time in
+France where he encounters Widmerpool. He is also invited to Templer’s family
+home where he falls in unrequited love with Templer’s sister Jean. The book
+ends with the details of Oxford don, Sillery’s, tea parties, and a crash in
+Templer’s car. He also meets aspiring poets Masters and Quiggin, the latter a
+rather miserable Marxist northerner.
+
+A Buyer’s Market 1928
+
+This opens with Jenkins established in London, working for a publisher of art
+books. He attends debutante balls, and there is an epic description of a single
+evening, narrated over two chapters, where he encounters Stringham by accident
+and falls in with large cast of characters. Widmerpool also reappears, now as
+city gent working in finance. Later in the book he makes friends with an
+artist, Barnby.
+
+The Acceptance World  1931-33
+
+Jenkins is still living in London. He has just published his first novel,
+although he only mentions it in passing. Uncle Giles reappears with a
+mysterious fortune teller, Mrs Erdleigh. Much of the action features the
+manoeuvring of Masters and Quiggin as they in turn work as secretary to
+novelist St John Clarke. Jenkins again encounters Templer and is invited to his
+house where he finally consummates his love affair with Templer’s sister Jean.
+The book ends with an excellent comic account of an Eton old boy’s party hosted
+by Le Bas.
+
+Back in the 90s, when I still used to watch TV, there was a famous series of
+commercials for instant coffee, collectively known as Love Over Gold. I was so
+infatuated with them that I even read the spinoff novel. It was awful. The
+commercials gave brief 30 second glimpses into various points during a love
+affair that lasted several years. Dance reminded me of this a little. We are
+dropped into a scene; sometimes for a couple of days, sometimes for just an
+hour or so; then some time goes by; sometimes a few months, sometimes a few
+days, before we encounter Jenkins again in a new situation. The same cast of
+characters enter and exit, and often talk about each other. We might not meet
+or hear of someone for a few years and then discover that their circumstances
+have changed; perhaps they are now married, maybe they’ve secured a wonderful
+new job after being disappointed before. The characters often pop up in
+unexpected company; Uncle Giles introduces Jenkins to his new love interest, a
+clairvoyant named Mrs Erdleigh, but we next meet her as the companion of Jimmy
+Stripling, a friend of the Templars. It’s partly this gossipy soap opera
+quality that makes it so compelling.
+
+Powell is a master of character construction. Much of the text is simply
+Jenkins describing each person in turn at the party or event where he finds
+himself. Jenkins often finds he has to reassess people as time passes. He
+might have thought that Widmerpool was an inconsequential oddity at school, but
+later he admits that he was wrong, and Widmerpool’s dogged endurance at
+achieving his aims overcomes his accident prone awkwardness. Despite constantly
+embarrassing himself he advances nonetheless. I really enjoy the way Powell
+develops the cast through the series. He revels in human frailty; he loves a
+bore, or a failure. Uncle Giles threads through the story complaining about
+everything and blaming everyone but himself for his misfortunes. Even the more
+confident and able characters find themselves brought low. Stringham the suave
+cynic descends into alcoholism. Templer, always successful with women, finds
+himself bullied, dominated, and then cuckolded by his former model wife. The
+one character we don’t really feel we know is Jenkins himself, at least by the
+end of these first three books. He’s rather aloof. He doesn’t talk about
+himself very much. We don’t hear anything about his work, or the novel he’s
+writing. He hardly mentions his family, despite being very interested in the
+families of his friends. Powell, by making his narrator a fellow novelist,
+allows him to reflect on the art of novel writing, somewhat breaking the fourth
+wall. There’s one scene where Jenkins, waiting in the Ritz to meet the poet
+Masters, muses on the difficulty of capturing human character in prose.
+
+I recently read a book on Kurt Vonnegut’s advice on writing. Vonnegut tells his
+students to write simply and clearly, not “like an upper class Englishman from
+one hundred years ago.” I wonder if he had Anthony Powell in mind when he said
+that. If you want simple direct writing, you won’t find it here. The language
+is baroque in its complexity. Powell will never use a simple word when he can
+impress you with his vast vocabulary. I found myself Googling for the meanings
+of words several times at each sitting. Often the language is hard to parse and
+I found myself reading passages slowly aloud in order to better understand
+them. It certainly requires concentration. It’s a matter of taste of course,
+but I really enjoy Powell’s style. It feels luxurious; as if my brain is being
+massaged by a master of prose. At other times though, Powell can be quite
+snappy and direct, especially during the more comic scenes. Some of the reviews
+I read called Dance, a comic novel series. I wouldn’t say that’s it’s primary
+aim, but it is very funny in places. There’s a wonderful scene when, as Jenkins
+leaves the house in France where he’s been staying, he resolves to reveal his
+feelings to a young woman, but then confesses to the wrong woman. In another
+scene he visits a memorial exhibition by the (fictional) artist Isbister, and
+gives a wonderful commentary on the awful paintings. The final set piece, Le
+Bas the housemaster’s old boys dinner at the Ritz, is masterpiece, as
+Widmerpool bores his audience to tears with an uninvited speech, Stringham is
+so drunk he almost passes out, and Le Bas brings proceedings to an end by
+having a stroke.
+
+The first three books cover a period of about twelve years from approximately
+1921 to 1933. Actual history doesn’t intrude much. There is some mention of
+people who fought in the war - and the chip-on-the-shoulder guilt of those who
+didn’t. Later on in the 1930s, there’s reference to the great depression, but
+we never encounter anyone seriously hard up. Jenkins inhabits a comfortable
+London middle class world of debutante parties, art galleries, and lunches at
+the Ritz. It’s an extremely privileged life. He never meets any working class
+people, except perhaps servants. Where it is revealing of the times is in the
+minutely observed thoughts and opinions of the large cast of characters. Powell
+is an acute observer of elite political trends. He captures the craze for
+communism and socialism in the 30s, and there is also the first mention of
+fascism in the guise of Foppa, the Italian restaurant owner’s daughter, an
+ardent supporter of Mussolini. Another character, Werner Guggenbuhl, is a
+severe and unfriendly leftist, as is the poet Quiggin. Powell is obviously not
+sympathetic to the left, nor to fascism, but then we have to remember that he
+wrote this post WWII. One wonders if his opinions would have been more fascist
+friendly, like many of the upper classes, if he written it pre-war?
+
+I am now a fully immersed convert to the world of A Dance to the Music of Time.
+I’m keen to discover what happens to the vast cast of characters as the
+remainder of the 1930s and then WWII pass, and what they make of life in old
+age in the 60s. Will they celebrate or deplore Beatlemania? I’m planning to read
+volume 2 later this year and the remaining two, one per year. Watch this space!
