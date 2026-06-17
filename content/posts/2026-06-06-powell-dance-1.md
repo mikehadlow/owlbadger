@@ -139,7 +139,7 @@ leaves the house in France where he’s been staying, he resolves to reveal his
 feelings to a young woman, but then confesses to the wrong woman. In another
 scene he visits a memorial exhibition by the (fictional) artist Isbister, and
 gives a wonderful commentary on the awful paintings. The final set piece, Le
-Bas the housemaster’s old boys dinner at the Ritz, is masterpiece, as
+Bas the housemaster’s old boys dinner at the Ritz, is a comic masterpiece, as
 Widmerpool bores his audience to tears with an uninvited speech, Stringham is
 so drunk he almost passes out, and Le Bas brings proceedings to an end by
 having a stroke.
