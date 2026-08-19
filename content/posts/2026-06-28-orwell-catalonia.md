@@ -8,7 +8,7 @@ image = "/img/orwell-catalonia.jpg"
 book-author = "George Orwell"
 started = "2026-06-19"
 completed = "2026-06-28"
-tags = ["Book", "Interwar"]
+tags = ["Book", "Interwar", "Book Club"]
 +++
 This is the third Orwell book I’ve read in a row. They are all volumes from the
 Folio Society “Reportage” box set that includes Down and Out in Paris and

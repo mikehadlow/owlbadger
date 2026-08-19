@@ -8,7 +8,7 @@ image = "/img/vonnegut-pity.jpg"
 book-author = "Suzanne McConnell"
 started = "2026-05-22"
 completed = "2026-05-29"
-tags = ["Book", "Writing"]
+tags = ["Book", "Writing", "Book Club"]
 +++
 This was a Trafalgar Street Book Club choice by my friend David Bradshaw for
 our June meeting. I bought this paperback copy with its bright orange cover a
