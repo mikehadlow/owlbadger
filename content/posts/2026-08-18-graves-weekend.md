@@ -5,10 +5,10 @@ date = "2026-08-18"
 author = "Mike Hadlow"
 [params]
 image = "/img/graves-weekend.jpg"
-book-author = "Robert Graves"
+book-author = "Robert Graves & Alan Hodge"
 started = "2026-07-28"
 completed = "2026-08-18"
-tags = ["Book", "Interwar"]
+tags = ["Book", "Interwar", "History"]
 +++
 I discovered this book during the research for my interwar reading list. My
 copy is a very attractive Folio Society edition that I bought from eBay for £15
