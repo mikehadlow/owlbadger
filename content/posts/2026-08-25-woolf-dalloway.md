@@ -10,73 +10,11 @@ started = "2026-08-19"
 completed = "2026-08-25"
 tags = ["Book", "Interwar", "Book Club", "Classic"]
 +++
-This was a Trafalgar Street Book Club choice by Simon Peters. I was very
-pleased since it was already on my interwar reading list. I hadn’t yet bought a
-copy and initially looked on eBay for the Folio edition. Thankfully I stumbled
-on an actual Hogarth Press edition from 1933 for just £20 so I immediately
-ordered it. It arrived promptly, not in the best condition, but then what can
-one expect for a 93-year-old book. Inside the front cover someone had written
-in ink “1.4.38”. I assume it’s the date they read it. Virginia Woolf is a giant
-of 20th century literature and an icon of feminism. She lived just a short
-distance away in the village of Rodmell. Her house, Monks House, is now a
-National Trust property. A few weekends back the TSBC had an outing to visit
-both there and Charleston Farmhouse, an excellent day out. Woolf suffered from
-a lifetime of mental illness, and committed suicide by throwing herself in the
-river Ouse during WWII. I’d always been a little put-off by her reputation,
-both as a feminist icon and a modernist. I half expected her books to be
-unreadable man-hating streams of consciousness. How wrong our prejudices can
-be! It is a stream of consciousness, but quite an odd one, in that it’s written
-in the third person, and frequently jumps heads. It somewhat brings to mind a
-roving mind-reading camera spending a day in London flying around and alighting
-in one head after another.
+This was September’s Trafalgar Street Book Club (TSBC) choice, made by Simon Peters. I found my copy, a 1933 Hogarth Press edition, on eBay for just £20. A 90-year-old book is unlikely to be in great condition, and mine was mottled and cracked but still perfectly readable. Indeed, the large type and heavy paper made it very pleasant to sit with. Someone had written 1.4.38 on the inside cover. Was that when it was first read? Because we were reading Virginia Woolf it only seemed right that we should have a TSBC outing to her residence, Monk’s House, in Rodmell, and the Bloomsbury headquarters at Charleston Farmhouse. Both are just a short drive from Lewes. Even better, Charleston happened to have an exhibition about the Hogarth Press on at the time, which included some beautiful first-edition gems, including of course Mrs Dalloway. The four of us had a wonderful day out, which included an excellent lunch at the Abergavenny pub in Rodmell.
 
-The hero is Mrs Dalloway an upper class woman preparing for a party. We start
-by following her as she goes out to buy flowers for her evening’s party. As she
-walks through the West End she muses on what might have been and her youthful
-loves. After she arrives at the flower shop we find our point of view
-fluttering about London and entering the heads of successive characters as they
-watch the King’s (or is it the Queen’s, or the PM’s - we’re never sure) car get
-stuck in traffic and a sign writing aircraft flying overhead. We follow Mrs
-Dalloway as she returns home. Her mood, at first happy and contented, is thrown
-into deep jealousy and sadness when she learns that her husband, Richard, an
-MP, has gone to lunch with Lady Bruton, but that she hadn’t been invited. We
-learn that she’s had an illness and now sleeps alone in a narrow bed in the
-attic. Later she is sitting sewing, when her old suitor, Peter Walsh, returns
-suddenly from India, appears at her house. She thinks of what life might have
-been if she’d married him. Their dramatic reunion is interrupted by the arrival
-of Mrs Dalloway’s daughter Elizabeth. We follow Peter Walsh, after leaving the
-Dalloway house, walking through London and sitting in Regent's Park where he
-falls asleep. Nearby are the shell-shocked soldier Septimus Warren Smith and
-his Italian wife Rezia. Woolf is very good at reconstructing the mental
-insanity of Warren Smith and Rezia’s mental anguish at having to care for him.
-Woolf is obviously no stranger to mental illness. We spent quite a bit of time
-with Septimus, learning how he was a promising, sensitive, young man, but
-during his time as a soldier in WWI the death and destruction, and especially
-the death of his friend Evans left him with severe shell shock. We go with
-Septimus and his wife to two successive doctors, who have little to offer him.
-There were no effective drugs for mental illness in those days, and much of the
-treatment was counterproductive. We also spend time with Richard Dalloway, Mrs
-Dalloway’s husband, as he attends Lady Bruton’s party. He reveals his affection
-for his wife, but also his repressed inability to express it well. In a rather
-unsentimental and rapid scene, Septimus commits suicide by jumping from an
-upstairs window onto some railings. It all happens quite suddenly, and Woolf
-doesn’t make much of it. We spend some time with Mrs Dalloway’s daughter
-Elizabeth and her militant and bitter tutor Miss Kilman. Elizabeth later
-escapes for a while on the top deck of a bus through London. The book ends with
-the party that Mrs Dalloway had been preparing for. Again the narrative jumps
-from one character’s head to another’s. Mrs Dalloway hears about Septimus’s
-suicide from her guest Sir William Bradshaw, his doctor, thus joining the two
-main threads together. It upsets her for the rest of the evening. Peter Walsh
-and Sally Seton (Seton was the name of Woolf’s doctor I later discovered) are
-reunited in their friendship. The Prime Minister is one of the guests, but
-Woolf does not invite us into his head, rather he’s described quite
-disparagingly by other guests.
+Virginia Woolf was of course a giant of early 20th century literature, still lauded today as an icon of feminism. It was her reputation as a militant feminist and a pioneer of modernist literature that had put me off trying any of her books, so this was the first of her books I’d ever read. I fully expected an unreadable man-hating rant. In fact I couldn’t have been more wrong. Mrs Dalloway does require a little effort in places, but it’s far from unreadable, and about as far from a rant as one could get.
 
-The narrative flows in a constant stream with no chapter boundaries. At times
-it flows easily, but at others it is quite hard work, dense and difficult to
-parse. I had trouble getting any meaning out of some paragraphs. The fault of
-the writer, or of the reader? Or perhaps a deliberate device? As an insight
-into the concerns and lives of a group of early 20th century Londoners it is
-excellent. On the whole it was moderately enjoyable, but not an experience I
-would rush to repeat. I’m glad I read it, but I’m not sure how soon I’ll pick
-up one of her other books.
+The action takes place over a single day in central London. At its centre is Mrs Dalloway, an upper-class woman, whose husband is an MP and minister. Her day is taken up preparing for a party that evening. Woolf uses a clever technique, describing in the third-person the thoughts of different protagonists in turn in a single stream-of-consciousness with no chapter breaks. It feels rather cinematic, like a roving camera, that dances around central London, alighting in one head after another. The scene when we leave Mrs Dalloway in the flower shop and go chasing after a car carrying an important person (is it the King?), alighting on one person after another in quick succession as they notice the car passing, while at the same time a sign-writing aircraft swoops around the sky, is an astonishing piece of virtuoso writing. Other than Mrs Dalloway, the most significant character is Septimus Warren Smith, a young veteran of WWI who is suffering from severe PTSD; “shell shock” from his experiences in the war. Woolf herself suffered a lifetime of mental illness and writes as someone who clearly understands what it is to experience psychosis. Septimus’s hallucinations are frighteningly real, as is the anguish of his young Italian wife, Lucrezia, who is desperate for Septimus to be cured, but doesn’t know who to turn to. We also spend time in the heads of Mrs Dalloway’s daughter, Elizabeth, her husband, Richard, and her ex-suitor, Peter Walsh. I found Walsh to be somewhat unbelievable. His thoughts weren’t those of a man aiming to marry a much younger woman. Where was the sexual fantasy? Perhaps Woolf, who had been a victim of sexual abuse as a child, simply couldn’t stomach the thought? Or perhaps as a woman she simply didn’t understand how central to men’s thoughts sex is? Mrs Dalloway is a rather tragic figure, not sure of her role in life, banished to a small attic bedroom in the interest of getting plenty of rest. She muses on what might have been had she married Walsh, and wonders whether her life has any meaning. I didn’t have an awful lot of sympathy for such a leisured and wealthy woman. Her self-pity seemed rather self-indulgent to me. The final scenes at the party, where all the various threads and characters are brought together, makes for a very satisfying, if rather anti-climatic, conclusion. I was half expecting Mrs Dalloway to follow Septimus and also commit suicide, but instead she just carries on. Perhaps that was the point?
+
+This is a very clever book, and a fascinating read. I can’t say that it was wholly enjoyable though. I spent too much time thinking how clever Woolf is and rarely engaging fully with the characters. On the plus side, it did do a wonderful job of invoking London in the 1920s, the sights and sounds, and how people thought. A book one should read, rather than one really wants to read. I’m intrigued enough to perhaps try one of her other works at some point.
+
