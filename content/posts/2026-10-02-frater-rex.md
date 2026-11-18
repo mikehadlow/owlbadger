@@ -98,4 +98,5 @@ have done had he survived? There would probably have been some excellent war
 paintings. Would the experience of war have influenced his style and subject
 matter? Frater speculates that he would have found a perfect outlet in the
 burgeoning TV and film business after the war. Or perhaps he would have evolved
-into a respected gallery artist? We will never know.
+into a respected gallery artist? But this is all idle speculation, we will 
+never know.
