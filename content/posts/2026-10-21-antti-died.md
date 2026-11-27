@@ -10,11 +10,11 @@ started = "2026-10-18"
 completed = "2026-10-21"
 tags = ["Book", "Fiction", "Book Club"]
 +++
-This was Mat Steeples’ choice for Trafalgar Street Book Club’s November meeting.
+This was Bob England’s choice for Trafalgar Street Book Club’s November meeting.
 The author, Antti Tuomainen, is Finnish, and is apparently regarded as the King
 of Helsinki Noir. This book, originally written in Tuomainen’s native Finnish,
 was translated by David Hackston. I hadn’t heard of Tuomainen or Hackston before
-Mat nominated the book. Originally published in 2016, my copy is a new
+Bob nominated the book. Originally published in 2016, my copy is a new
 paperback bought from Amazon. At 245 pages it’s comfortably under the TSBC
 limit of 300 pages. It was a very easy read and I finished it in four days.
 
